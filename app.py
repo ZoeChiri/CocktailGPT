@@ -37,3 +37,5 @@ ingredient_template = PromptTemplate(
     template='list cocktail ingredientns based on this name NAME: {name}'
     
 )
+
+#insert openai being able to have history
